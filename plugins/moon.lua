@@ -25,7 +25,7 @@ return "مشحصات فنی سرور\n مدت آنلاین :"..uptime.."\nRedsta
 end
 return {
 patterns = {
-"^[Mm]oon$",
+"^[Aa]migo$",
 },
 run = run
 }
